@@ -2,7 +2,7 @@
   <br>
   <samp>
     Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/anouar-ali-798b4a19b/">Anouar</a></b>.
-    <br>I'm a Computer Engineering graduate Student from Germany.<br>
+    <br>I'm a Computer Engineering undergraduate Student from Germany.<br>
 
 </samp>
 
