@@ -28,6 +28,8 @@
 ![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
 ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
 ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
+![RFW](https://img.shields.io/badge/-Robot-222222?style=flat&logo=RobotFramework&logoColor=white)
+![Selenium](https://img.shields.io/badge/-Selenium-222222?style=flat&logo=Selenium&logoColor=28a745)
 ![Java Spring](https://img.shields.io/badge/-Spring-222222?style=flat&logo=spring&logoColor=6DB33F)
 
 ### 🤔 About
