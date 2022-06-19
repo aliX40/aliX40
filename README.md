@@ -2,7 +2,7 @@
   <br>
   <samp>
     Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/anouar-ali-798b4a19b/">Anouar</a></b>.
-    <br>I'm a Junior Test Engineer from Germany.<br>
+    <br>I'm a Software/ Test Automation Engineer   from Germany.<br>
 
 </samp>
 
