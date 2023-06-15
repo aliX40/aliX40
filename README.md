@@ -33,7 +33,7 @@
 ![Java Spring](https://img.shields.io/badge/-Spring-222222?style=flat&logo=spring&logoColor=6DB33F)
 
 ### 🤔 About
--  **Working :**  Web Development :computer: | Blockchain :cloud: | Test Automation :racing_car:
+-  **Working :**  Web Development :computer: | Blockchain :cloud: | Test Automation :racing_car: | Cyber Security : :checkered_flag: |
 -  **Hobbies :** Books :books: | Music :headphones:
 -  **Ask me about :** Anything!, I'm happy to help :v: 
 -  **Pronouns :** He/Him/His :innocent:
