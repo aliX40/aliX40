@@ -2,7 +2,7 @@
   <br>
   <samp>
     Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/anouar-ali-798b4a19b/">Anouar</a></b>.
-    <br>I'm a Software/Test Automation Engineer   from Germany.<br>
+    <br>I'm a Software-Engineer / Cyber-Security Auditor   from Germany.<br>
 
 </samp>
 
@@ -18,6 +18,8 @@
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![Ethereum](https://img.shields.io/badge/-Ethereum-000000?style=flat&logo=ethereum&color=purple)
+![Solidity](https://img.shields.io/badge/-Solidity-000000?style=flat&logo=solidity)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
 ![NOSQL](https://img.shields.io/badge/-NOSQL-000000?style=flat&logo=mongodb)
@@ -34,6 +36,6 @@
 
 ### 🤔 About
 -  **Working :**  Web Development :computer: | Blockchain :cloud: | Cyber Security : :checkered_flag: |
--  **Hobbies :** Books :books: | Music :headphones:
+-  **Hobbies :** Books :books: [Reading List](https://spring-sardine-b46.notion.site/Reading-List-7bb49cd15f234b869dabbc9e34c0facd?pvs=4) | Music :headphones:
 -  **Ask me about :** Anything web2 or web3 related!, I'm happy to help :v: 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
