@@ -1,7 +1,7 @@
 <p align="center">
   <br>
   <samp>
-    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/anouar-ali-798b4a19b/">Anouar</a></b>.
+    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://x.com/AliX__40">alix40</a></b>.
     <br>I'm a Software-Engineer / Cyber-Security Auditor   from Germany.<br>
 
 </samp>
@@ -35,7 +35,7 @@
 ![Java Spring](https://img.shields.io/badge/-Spring-222222?style=flat&logo=spring&logoColor=6DB33F)
 
 ### 🤔 About
--  **Working :**  Web Development :computer: | Blockchain :cloud: | Cyber Security : :checkered_flag: |
+-  **Working :**  lending Protocols :computer: | Cross-Chain :cloud: | Defi : :checkered_flag: |
 -  **Hobbies :** Books :books: [Reading List](https://spring-sardine-b46.notion.site/Reading-List-7bb49cd15f234b869dabbc9e34c0facd?pvs=4) | Music :headphones:
 -  **Ask me about :** Anything web2 or web3 related!, I'm happy to help :v: 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
